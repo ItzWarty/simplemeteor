@@ -1,0 +1,3 @@
+[submodule ".typescript"]
+	path = .typescript
+	url = git@github.com:meteor-typescript/meteor-typescript-libs.git
